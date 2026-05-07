@@ -16,6 +16,7 @@ Java: Used for large-scale machine learning applications, especially with Apache
 Julia: A new language gaining popularity for its high performance and dynamism
 MATLAB: Often used for research and development, particularly in academia
 Key Characteristics
+
 | Language | Key Features |
 | --- | --- |
 | Python | Simple, extensive libraries |
